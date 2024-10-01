@@ -1630,7 +1630,7 @@
     "invalidCharactersStart": "",
     "invalidCharactersEnd": "-",
     "invalidCharactersConsecutive": "",
-    "regx": "^(?!.*-$)[^\\/\\[\\]:|<>\\+=;,\\?@&_\\. \\*]{1,64}$",
+    "regx": "^.{1,64}$",
     "staticValues": ""
   },
   {
