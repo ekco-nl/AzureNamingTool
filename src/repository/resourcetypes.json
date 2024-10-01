@@ -1623,7 +1623,7 @@
     "ShortName": "vm",
     "scope": "resource group",
     "lengthMin": "1",
-    "lengthMax": "64",
+    "lengthMax": "16",
     "validText": "",
     "invalidText": "Backslash, slash, double quote, single quote, square brackets, colon, pipe, angle brackets, plus sign, equals sign, semi-colon, comma, question mark, asterisk, at sign, ampersand, and underscore. Can't include space or period. Can't end with hyphen.",
     "invalidCharacters": "",
